@@ -73,7 +73,8 @@ Jaydeep Dutta
 Juhi Dua  
 Keshav Agrawal  
 Kunal Prasad  
-Manuj Porwal  
+Manuj Porwal
+Sharjil Khan  
 Naveen Setia  
 Niharika Arora  
 Praveen Bhagat  
